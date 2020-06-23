@@ -8,6 +8,7 @@ import Welcome from './componets/Welcome'
 import InfiniteScroll from 'react-infinite-scroll-component'
 
 import './App.css';
+import Header from './componets/Header.js';
 
 
 
@@ -18,7 +19,7 @@ function App() {
 
     <div class = "App">
        <div class ='bg-overlay'></div>
-      
+      <Header></Header>
        <NavBar> </NavBar>
       <div class ="content">
        <Welcome></Welcome>

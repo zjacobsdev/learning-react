@@ -1,3 +1,12 @@
+things to add
+
+-header
+-linksocial medias
+-add profolio items
+-fix nav bar
+-page links
+-resume
+
 # learning-react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
