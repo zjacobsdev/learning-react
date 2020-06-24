@@ -12,7 +12,11 @@ function Header() {
 
   return (
     <div class ="sec">
-      <h1 style ={style}>Start of an awesome header</h1>
+
+      
+      <h1> Zahmir Jacobs</h1>
+      <span>Software Developer/Technologist</span>
+      
     </div>
 
   )
