@@ -11,11 +11,15 @@ function Header() {
   }
 
   return (
-    <div class ="sec">
+    <div class ="header">
 
-      
-      <h1> Zahmir Jacobs</h1>
+      <img class = "profile" src= {process.env.PUBLIC_URL + '/img/buddy-placeholder-square.jpg'} alt={"Profile Pic"}/> 
+      <div class ="name-tag">
+        
+        <h1> Zahmir Jacobs</h1>
       <span>Software Developer/Technologist</span>
+      </div>
+      
       
     </div>
 
